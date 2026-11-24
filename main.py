@@ -2,10 +2,10 @@ import os
 
 # The Robot Vacuum's Best Excuse — one line, at most 140 characters.
 # A confession with a count (41 skips), a structural-engineering defence of a
-# crumb, and a morale collapse as the price of cleaning properly.
+# crumb, and a measurable consequence: the whole kitchen leans without it.
 EXCUSE = (
-    "I skipped the corner 41 times this month because the crumb there is "
-    "load-bearing — remove it and this whole kitchen's morale collapses."
+    "I skipped the corner 41 times this month: the crumb there is "
+    "load-bearing. Remove it and the kitchen leans two degrees left."
 )
 
 CHAR_LIMIT = 140
